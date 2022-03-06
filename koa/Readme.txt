@@ -1,0 +1,1 @@
+该文件夹用于配置koa服务器,与ioredis进行通信,配置了ioredis-sub路由,路由请求方式为get
